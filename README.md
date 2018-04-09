@@ -1,2 +1,2 @@
 # Python
-Showcasing Python's machine learning capabilities
+Showcasing Python's Natural Language Processing capabilities
